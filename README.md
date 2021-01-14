@@ -1,6 +1,8 @@
 # pifire
 A Raspberry Pi based digital fireplace using Python and OMXPlayer
 
+[See demo on YouTube] https://youtu.be/YTc7mPNlZ7M
+
 # Features of the Python program
 1. Seamless switching between videos
 2. Start of video at predefind position (skip start)
