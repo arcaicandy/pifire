@@ -1,6 +1,8 @@
 # pifire
 A Raspberry Pi based digital fireplace using Python and OMXPlayer
 
+![An image of the Pifire digital fireplace](/assets/pifire.jpg)
+
 [See demo on YouTube](https://youtu.be/YTc7mPNlZ7M)
 
 # Features of the Python program
