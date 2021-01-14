@@ -1,0 +1,38 @@
+videos:
+  - id     : fireplace.mp4
+    path   : '../shared/fireplace.mp4'
+    crop   : [430, 130, 1454, 898]
+    aspect : fill
+    start  : 0
+    volume : 1.5
+  - id     : aquarium.mp4
+    path   : '../shared/aquarium.mp4'
+    crop   : Null
+    aspect : fill
+    start  : 0
+    volume : 5.5
+  - id     : beach.mp4
+    path   : '../shared/beach.mp4'
+    crop   : Null
+    aspect : fill
+    start  : 5
+    volume : 0.5
+  - id     : river.mp4
+    path   : '../shared/river.mp4'
+    crop   : Null
+    aspect : fill
+    start  : 2
+    volume : 0.5
+  - id     : testcard.mp4
+    path   : '../shared/testcard.mp4'
+    crop   : Null
+    aspect : fill
+    start  : 0
+    volume : 0.25
+
+volumes:
+  fireplace.mp4 : 1.5
+  aquarium.mp4  : 5.5
+  beach.mp4     : 0.5
+  river.mp4     : 0.5
+  testcard.mp4  : 0.25

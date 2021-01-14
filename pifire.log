@@ -1,0 +1,5 @@
+2021-01-10 15:23:48,441 [MainThread  ] [INFO ]  piFire starting....
+2021-01-10 15:23:52,502 [MainThread  ] [INFO ]  Playing next video
+2021-01-10 15:23:52,504 [MainThread  ] [INFO ]  Showing paused player
+2021-01-10 15:23:52,706 [MainThread  ] [INFO ]  Hiding active player
+2021-01-10 15:23:52,731 [MainThread  ] [INFO ]  Creating new paused player
